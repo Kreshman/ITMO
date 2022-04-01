@@ -758,8 +758,8 @@ main {
 }
 
 @media (max-width: 688px) {
-  .location {
-    margin: 40px 0px 0px 0px;
+  .info-footer__coopyright {
+    margin: 38px 0px 40px 0px;
   }
 }
 
@@ -807,6 +807,10 @@ main {
 }
 
 @media (max-width: 425px) {
+  .location {
+    margin: 40px 0px 0px 0px;
+  }
+
   .location__social {
     margin: 20px 0px 0px 0px;
   }
