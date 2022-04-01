@@ -757,6 +757,12 @@ main {
   }
 }
 
+@media (max-width: 688px) {
+  .location {
+    margin: 40px 0px 0px 0px;
+  }
+}
+
 @media (max-width: 530px) {
   .locus__items {
     -ms-flex-wrap: wrap;
@@ -801,10 +807,6 @@ main {
 }
 
 @media (max-width: 425px) {
-  .location {
-    margin: 40px 0px 0px 0px;
-  }
-
   .location__social {
     margin: 20px 0px 0px 0px;
   }
